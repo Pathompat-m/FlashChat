@@ -1,4 +1,4 @@
-# FlashChat
+# Flash Chat
 
 ## Overview
 
